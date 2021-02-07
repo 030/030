@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**030/030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=030&count_private=true&show_icons=true&hide_title=true" />
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
